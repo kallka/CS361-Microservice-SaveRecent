@@ -1,10 +1,10 @@
 # CS361-Microservice-SaveRecent
 # Description: Saves recent input from a client UI. For my partner's project, it will save recent unit conversions.
 
-HOW TO SET UP
+HOW TO SET UP \n
 
-IMPORTANT RULES PRIOR TO SET UP:
-1.) Please use the example_ui.py for help.
+IMPORTANT RULES PRIOR TO SET UP: \n
+1.) Please use the example_ui.py for help. \n
 2.) Important Items:
       a.) save_recent() - needs to be connected to a return of "recent conversion"
       b.) see_recent()
