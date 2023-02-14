@@ -54,6 +54,7 @@ IMPLEMENTATION AND HOW IT WORKS:
       - client_handler changes this message to a string and saves it to "recent-searches.txt"
       - see_recent() reads "recent_searches.txt" and prints the queue to the terminal
 5.) Function - disconnect():
+
       - copies the disconnect_message = "quit" to "message.txt"
       - client_handler.py reads the message, forwards to the server, and then quits
 
