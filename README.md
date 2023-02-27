@@ -59,4 +59,7 @@ IMPLEMENTATION AND HOW IT WORKS:
       - client_handler.py reads the message, forwards to the server, and then quits
 
 UML: Please download from the link:
-[CS361_Assignment8_UML.pdf](https://github.com/kallka/CS361-Microservice-SaveRecent/files/10729370/CS361_Assignment8_UML.pdf)
+*New Diagram as of 2/27/2023:
+[UML_Sequence_Kallask.pdf](https://github.com/kallka/CS361-Microservice-SaveRecent/files/10842737/UML_Sequence_Kallask.pdf)
+
+
